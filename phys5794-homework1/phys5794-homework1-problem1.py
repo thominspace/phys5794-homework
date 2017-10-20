@@ -3,6 +3,7 @@
 # 1/27/16
 # Homework 1, Problem 1
 
+
 # Problem statement:
 # The following five data points are given: f(0.2) = 0.0015681, f(0.3) = 0.0077382, f(0.4) = 0.023579,
 # f(0.5) = 0.054849, f(0.6) = 0.10696. This problem is about writing a code to evaluate f(0.16) and
